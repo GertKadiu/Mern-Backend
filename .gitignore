@@ -1,0 +1,4 @@
+# Ignoro fajllin .env
+.env
+# Ignoro node_modules
+node_modules/
